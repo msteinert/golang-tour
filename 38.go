@@ -1,5 +1,7 @@
 package main
 
+// +build ignore
+
 import "code.google.com/p/go-tour/pic"
 
 func Pic(dx, dy int) [][]uint8 {

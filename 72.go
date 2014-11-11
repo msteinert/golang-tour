@@ -1,5 +1,7 @@
 package main
 
+// +build ignore
+
 import (
 	"code.google.com/p/go-tour/tree"
 	"fmt"
